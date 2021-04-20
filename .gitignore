@@ -12,6 +12,9 @@
 /build
 
 # misc
+uploads/*
+!uploads/.gitkeep
+*.sqlite
 .DS_Store
 .env.local
 .env.development.local
